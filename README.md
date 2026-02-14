@@ -558,5 +558,3 @@ set_max_delay -from [get_cells *sync1*] -to [get_cells *sync2*] [get_clocks *_cl
 ---
 
 
-**⭐ If you find this project useful, please give it a star!**
-
